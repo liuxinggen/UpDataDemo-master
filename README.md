@@ -7,10 +7,7 @@
  在你自己的Application中配置：
  
  	 CrashHandler crashHandler = CrashHandler.getsInstance();
-         crashHandler.init(getApplicationContext(),
-                “appid”,
-                "错误上传url",
-                "产品名称");
+         crashHandler.init(getApplicationContext(),“appid”,"错误上传url","产品名称");
 		
 # 更新用发
 

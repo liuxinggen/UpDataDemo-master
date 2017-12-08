@@ -1,0 +1,12 @@
+<resources>
+    <!-- 通用 -->
+    <dimen name="margin_space_5">5dip</dimen>
+    <dimen name="margin_space_10">10dip</dimen>
+    <dimen name="margin_space_15">15dip</dimen>
+    <dimen name="margin_space_20">20dip</dimen>
+    <dimen name="margin_space_25">25dip</dimen>
+    <dimen name="margin_space_30">30dip</dimen>
+    <dimen name="margin_space_40">40dip</dimen>
+    <dimen name="margin_space_50">50dip</dimen>
+
+</resources>

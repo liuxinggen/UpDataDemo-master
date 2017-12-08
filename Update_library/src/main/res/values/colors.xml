@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="text_black">#333333</color>
+    <color name="text_black1">#222222</color>
+    <color name="text_blue">#0076FF</color>
+
+
+    <color name="white">#ffffff</color><!--白色 -->
+    <!-- 首页字体颜色 -->
+    <color name="fd_main_title_bg">#008000</color><!-- 首页头部背景的色值 -->
+
+    <color name="black2">#3C3C3C</color><!--淡黑色 -->
+    <color name="black">#000000</color><!--黑色 -->
+    <color name="green">#008000</color><!--绿色 -->
+    <color name="aliceblue">#f0f8ff</color><!--艾利斯兰 -->
+
+
+</resources>

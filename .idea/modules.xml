@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:\AS_BG\UpDataDemo-master\UpDataDemo-master\UpDataDemo.iml" filepath="G:\AS_BG\UpDataDemo-master\UpDataDemo-master\UpDataDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UpDataDemo-master.iml" filepath="$PROJECT_DIR$/UpDataDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Update_library/Update_library.iml" filepath="$PROJECT_DIR$/Update_library/Update_library.iml" />
+      <module fileurl="file://G:\AS_BG\UpDataDemo-master\UpDataDemo-master\Update_library\app.iml" filepath="G:\AS_BG\UpDataDemo-master\UpDataDemo-master\Update_library\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+    </modules>
+  </component>
+</project>

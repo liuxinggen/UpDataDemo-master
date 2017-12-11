@@ -14,10 +14,7 @@
  在你需要更新的地方配置：
   
   	UpdateManager.getInstance()
-                .initUpdateMsg(this,
-                        Constants.APPID,
-                        Constants.COMMON_URL,
-                        "XXX")
+                .initUpdateMsg(this,“appid”,url,"产品名称")
                 .setOnDownAPKListenter(new OnDownAPKListenter() {
                     @Override
                     public void onCancel() {
@@ -25,5 +22,9 @@
                         Toast.makeText(MainActivity.this, "取消下载", Toast.LENGTH_SHORT).show();
                     }
                 });
+		
+# 注：
+
+	url为当前服务端配置的域名，如：http://211.149.244.64:8099/即可。appid为每个App对应一个appid	
 
 

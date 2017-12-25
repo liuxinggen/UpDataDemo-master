@@ -25,7 +25,7 @@ public class MyApplication extends Application {
         crashHandler.init(getApplicationContext(),
                 Constants.APPID,
                 Constants.COMMON_URL,
-                "哈哈哈");
+                "XXX");
 
 
     }
